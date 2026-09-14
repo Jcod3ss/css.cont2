@@ -1,0 +1,41 @@
+/*paragraph test is red*/
+p {
+ color: red; 
+  text-align: center;
+  text-align-last: left;
+  direction: rtl;
+  unicode-bidi: isolate-overide;
+  font-size: 15 px;
+  font-family: "caacupe One";
+  background-color: blue; 
+}
+
+h1
+{
+  color: blue;
+  font-size: 50 px;
+  background-color: black;
+  border: 12px dashed rgb(300, 140, 0, 3)
+  
+}
+
+
+.caacupe-one-regular {
+  font-family: "Caacupe One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+body{
+  background-color: purple;
+  background-image: url("media/spidey.pdf")
+}
+
+.box {
+  width: 10px;
+  color: yellow;
+  font-size: 4.5 em;
+}
+
+.box p{
+  font-family: helvetica, arial, 
+}
